@@ -86,6 +86,6 @@ var Sheldon = (function () {
 
 document.addEventListener("DOMContentLoaded", function() {
   //Do some zen coding here. 
-  //Also, don't forget to have Sheldon make friends, so uncomment line 88!
+  //Also, don't forget to have Sheldon make friends, so uncomment the line below!
   //Sheldon.ask();
 });
