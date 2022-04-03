@@ -12,7 +12,7 @@ Sheldon.ask();
 
 Demo
 --------------
-[View Demo](http://sheldonvisits.marklreyes.com/)
+[View Demo](https://www.marklreyes.com/the-friendship-algorithm-in-javascript/)
 
 Flowchart
 --------------
