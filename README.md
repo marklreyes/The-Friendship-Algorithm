@@ -1,4 +1,4 @@
-## The Friendship Algorithm in JavaScript
+## The Friendship Algorithm
 
 I'm a big fan of [The Big Bang Theory](http://www.cbs.com/shows/big_bang_theory/) and I couldn't resist playing around with Sheldon's friendship algorithm. It's pretty much one object represented as ```Sheldon``` guided by the module pattern (thanks to [Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)).
 
@@ -6,9 +6,21 @@ I encourage you to fork this code and get some zen coding in. Since the logic is
 
 Usage
 --------------
+## Javascript
 <code>
 Sheldon.ask();
 </code>
+
+## Python
+The python version of The Friendship Algorithm (created by [@amarrerod](https://github.com/amarrerod)) uses a posibble friend which answers Shelly's questions with randomly selected options. Therefore, every execution is a chance of getting a new friend.
+
+```sh
+    python3 algorithm.py
+```
+
+
+
+
 
 Demo
 --------------
