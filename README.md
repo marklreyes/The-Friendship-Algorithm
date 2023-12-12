@@ -7,9 +7,9 @@ I encourage you to fork this code and get some zen coding in. Since the logic is
 Usage
 --------------
 ## Javascript
-<code>
+```
 Sheldon.ask();
-</code>
+```
 
 ## Python
 The python version of The Friendship Algorithm (created by [@amarrerod](https://github.com/amarrerod)) uses a posibble friend which answers Shelly's questions with randomly selected options. Therefore, every execution is a chance of getting a new friend.
