@@ -28,7 +28,7 @@ Demo
 
 Flowchart
 --------------
-![alt text](http://img2.wikia.nocookie.net/__cb20121011222658/bigbangtheory/images/f/ff/Freind1.jpg)
+![alt text](https://www.marklreyes.com/wp-content/uploads/2023/12/Screenshot-2023-12-12-at-2.43.13%E2%80%AFPM-1024x809.png)
 
 Watch Video Clip
 --------------
