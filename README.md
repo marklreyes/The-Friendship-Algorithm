@@ -6,19 +6,19 @@ I encourage you to fork this code and get some zen coding in. Since the logic is
 
 Usage
 --------------
-## TypeScript
+### TypeScript
 ```
 import { createSheldon } from './sheldon.js';
 const Sheldon = createSheldon();
 Sheldon.ask();
 ```
 
-## Javascript
+### Javascript
 ```
 Sheldon.ask();
 ```
 
-## Python
+### Python
 The python version of The Friendship Algorithm (created by [@amarrerod](https://github.com/amarrerod)) uses a possible friend which answers Shelly's questions with randomly selected options. Therefore, every execution is a chance of getting a new friend.
 
 ```sh
@@ -35,7 +35,7 @@ Demo
 
 Flowchart
 --------------
-![alt text](https://www.marklreyes.com/wp-content/uploads/2023/12/Screenshot-2023-12-12-at-2.43.13%E2%80%AFPM-1024x809.png)
+![alt text](https://github.com/marklreyes/The-Friendship-Algorithm/blob/master/the-friendship-algorithm-1024x809.png)
 
 Watch Video Clip
 --------------
