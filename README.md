@@ -6,6 +6,13 @@ I encourage you to fork this code and get some zen coding in. Since the logic is
 
 Usage
 --------------
+## TypeScript
+```
+import { createSheldon } from './sheldon.js';
+const Sheldon = createSheldon();
+Sheldon.ask();
+```
+
 ## Javascript
 ```
 Sheldon.ask();
