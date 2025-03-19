@@ -8,7 +8,7 @@ Usage
 --------------
 ### TypeScript
 ```
-import { createSheldon } from './sheldon.js';
+import { createSheldon } from './ts/sheldon.ts';
 const Sheldon = createSheldon();
 Sheldon.ask();
 ```
