@@ -22,7 +22,7 @@ Sheldon.ask();
 The python version of The Friendship Algorithm (created by [@amarrerod](https://github.com/amarrerod)) uses a possible friend which answers Shelly's questions with randomly selected options. Therefore, every execution is a chance of getting a new friend.
 
 ```sh
-    python3 algorithm.py
+python3 algorithm.py
 ```
 
 
